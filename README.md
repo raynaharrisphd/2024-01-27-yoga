@@ -24,7 +24,13 @@ and it was plain to see, that you are my destiny._
 
 Śavāsana  →  Bananasana (Reclined Crescent Moon)  →  Jathara Parivartanasana (Reclined Twist)  → Viparita Karani (Legs Up)
 
-- Hug → Table 
+
+<img src="https://yogajala.com/wp-content/uploads/2022/03/cat-cow-pose-page.jpg" alt="Cat Cow Flow" width="33%"/> <img src="https://workoutlabs.com/wp-content/uploads/watermarked/Striking_Cobra-1.png" alt="Striking Cobra" width="33%"/> <img src="https://www.gofitnessplan.com/images/exercises/female/plank-downward-dog.jpg" alt="Plank to Down Dog" width="33%"/>
+
+Cat Cow Flow, Striking Cobra, Plank to Down Dog
+
+
+
 - Cat - Cow Flow
 - Child's Pose - Cobra Flow
 - DownDog - Plank Flow
