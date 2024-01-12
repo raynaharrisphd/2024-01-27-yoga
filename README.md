@@ -11,9 +11,7 @@
 
 **Description:**  _This 60 minutes yoga class begins with joyful meditation, moves through sun salutation variatins, and ends with restorative practice centered around inner peace, relaxation, happiness. Just as the sun rises an sets each day, this full body practice will guide you through a series reclined, standing, revoled, and inverted poses that while enliven your body, mind, and spirity. Here, we emphaize poses and modificaitons of poses that focus on opening the heart to joy and peace._
 
-**Music:** Available on Spotify and YouTube
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
 
 ## Asanas
@@ -87,22 +85,8 @@ Child’s pose → Malasana →  Figure Four Pose → Figure Four Twist → Brid
 
 <iframe width="100%" height="352" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Text Only
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
-
-
-
-**Closing Stretches and Strengthening**
-- Child’s Pose → Malasana → Low Lunge → Half Splits
-- 
-- Olank → Downward Dog → Three legged dog → Pigeon Pose
-- Child’s pose → Malasana
-- Figure Four Pose → Figure Four Twist → Bridge Pose → Plough Pose
-- Happy Baby 
-- Savasana
-
-Closing Meditation
- 
 
 ## Resources
 
