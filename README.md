@@ -24,6 +24,14 @@ Opening Stetches and Strengthening
 - Forward Fold Stretches
 - Mountain Pose Stretches
 
+
+<img src="https://ourownkids.org/wp-content/uploads/savasana-720x340_orig.jpeg" alt="Shavasana" width="10%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcfxdy0d0tgCMO718TT7u274RxgkuBgxXIunA7Sw-a0Cx88C1Nt5Lkc3AC0qU4IcA-hQ&usqp=CAU" alt="Reclined Crescent Moon Pose" width="10%"/>
+
+
+
+
+
 Sun Salutations and Flows
 - Half Salutaiton
 - Sun Salutaion with Low Lunge
