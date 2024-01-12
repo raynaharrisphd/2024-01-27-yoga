@@ -4,9 +4,12 @@
 
 **When:** Saturday, January 27, 2024 from 8 - 9 AM (PST)   
 **Where:** Palisades Yoga with Rayna Harris and Jashua Denis
-
+**Key Actions:** Open Your Heart
+**Description:** _Add a description here._
 
 ## Asanas and Meditaions
+
+Opening Meditation
 
 Opening Stetches and Strengthening
 - Savasana
@@ -36,6 +39,7 @@ Closing Stretches and Strengthening
 - Happy Baby 
 - Savasana
 
+Closing Meditation
  
 
 ## Music
@@ -44,8 +48,8 @@ Closing Stretches and Strengthening
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Images
 
+## Music
 
 ![Half Salutation](https://www.dummies.com/wp-content/uploads/384096.image0.jpg) _Half Salutation_  
 
