@@ -33,16 +33,9 @@
 
 <img src="https://www.ekhartyoga.com/media/image/articles/Sun-salutation-b-sequence-with-the-breath.jpg" alt="Sun Sal Warrior I" width="90%"/>
 
-**Danding Warrior II Flow**
+**Danding Warrior II and Flying Warrior III**
 
-<img src="https://d5sbbf6usl3xq.cloudfront.net/dancing_warrior_variation_flow__nritya_virabhadrasana_variation_vinyasa_yoga.png" alt="Sun Sal Warrior I" width="30%"/>
-
-**Warrior III Flow**
-
-<img src="https://as2.ftcdn.net/v2/jpg/00/74/17/91/1000_F_74179141_wNqDGyzMzYNs7swjioXIgeMrvp05Ief4.jpg" alt="Tree Pose" width="30%"/>
-<img src="https://yogajala.com/wp-content/uploads/airplane-pose.jpg" alt="Airplane" width="30%"/>
-
-
+<img src="https://d5sbbf6usl3xq.cloudfront.net/dancing_warrior_variation_flow__nritya_virabhadrasana_variation_vinyasa_yoga.png" alt="Sun Sal Warrior I" width="30%"/> <img src="https://yogajala.com/wp-content/uploads/airplane-pose.jpg" alt="Airplane" width="30%"/> <img src="https://as2.ftcdn.net/v2/jpg/00/74/17/91/1000_F_74179141_wNqDGyzMzYNs7swjioXIgeMrvp05Ief4.jpg" alt="Tree Pose" width="20%"/> 
 
 
 **Closing Stretches and Strengthening**
