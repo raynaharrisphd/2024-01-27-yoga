@@ -31,14 +31,13 @@
 
 **Sun Salutation with Warrior I**
 
-<img src="https://www.ekhartyoga.com/media/image/articles/Sun-salutation-b-sequence-with-the-breath.jpg" alt="Sun Sal Warrior I" width="90%"/>
-
-
-
-
-
+<img src="https://www.ekhartyoga.com/media/image/articles/Sun-salutation-b-sequence-with-the-breath.jpg" alt="Sun Sal Warrior I" width="50%"/>
 
 **Warrior III Flow**
+
+<img src="https://d5sbbf6usl3xq.cloudfront.net/dancing_warrior_variation_flow__nritya_virabhadrasana_variation_vinyasa_yoga.png" alt="Sun Sal Warrior I" width="90%"/>
+
+
 
 
 **Closing Stretches and Strengthening**
