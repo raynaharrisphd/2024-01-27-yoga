@@ -13,18 +13,19 @@
 
 ## Asanas
 
-**Opening Stretch**
+**Supine Stretch**
 
 <img src="https://workoutlabs.com/wp-content/uploads/watermarked/Corpse-1.png" alt="Shavasana" width="24%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcfxdy0d0tgCMO718TT7u274RxgkuBgxXIunA7Sw-a0Cx88C1Nt5Lkc3AC0qU4IcA-hQ&usqp=CAU" alt="Bananasana" width="24%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3zazgDv_ZFBeTsZd3P9-5-SHaNx2NYCMNg&usqp=CAU" alt="Reclined Twist"  width="24%"/> <img src="https://media.istockphoto.com/id/1491518457/pt/vetorial/sketch-of-young-woman-practicing-yoga-doing-rejuvenation-pose-or-supine-staff-pose-supta.jpg?s=612x612&w=0&k=20&c=d96h9qipezPdrvroBSc1B50n_lRtEbzlu46bFlsqA5w=" alt="Legs up wal" width="24%"/> 
 
 Śavāsana  →  Bananasana (Reclined Crescent Moon)  →  Jathara Parivartanasana (Reclined Twist)  → Viparita Karani (Legs Up)
 
+**Floor Flow**
 
 <img src="https://yogajala.com/wp-content/uploads/2022/03/cat-cow-pose-page.jpg" alt="Cat Cow Flow" width="33%"/> <img src="https://workoutlabs.com/wp-content/uploads/watermarked/Striking_Cobra-1.png" alt="Striking Cobra" width="33%"/> <img src="https://www.gofitnessplan.com/images/exercises/female/plank-downward-dog.jpg" alt="Plank to Down Dog" width="33%"/>
 
 Cat Cow Flow, Striking Cobra, Plank to Down Dog
 
-**Sun Salutations and Flows**
+**Sun Salutations**
 
 
 <img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="10%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="10%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="20%"/> <img src="https://images.assetsdelivery.com/compings_v2/parkheta/parkheta2102/parkheta210200292.jpg" alt="Standing Forward Bend Twist" width="24%"/> 
