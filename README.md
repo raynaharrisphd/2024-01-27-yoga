@@ -10,15 +10,10 @@
 
 **Description:**  _This 60 minutes yoga class focuses on joy and peace. It begins with joyful meditation and vinyasa flow, and it ends with restorative practice centered around inner peace, relaxation, and happiness._
 
-## Asanas and Meditations
 
-**Opening Meditation**
+## Asanas
 
-_Joy, joy is my guide. I move with light. 
-Like sweat morning dew, I took one look at you, 
-and it was plain to see, that you are my destiny._
-
-**Opening Stetches and Strengthening**
+**Opening Stretch**
 
 <img src="https://workoutlabs.com/wp-content/uploads/watermarked/Corpse-1.png" alt="Shavasana" width="24%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcfxdy0d0tgCMO718TT7u274RxgkuBgxXIunA7Sw-a0Cx88C1Nt5Lkc3AC0qU4IcA-hQ&usqp=CAU" alt="Bananasana" width="24%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3zazgDv_ZFBeTsZd3P9-5-SHaNx2NYCMNg&usqp=CAU" alt="Reclined Twist"  width="24%"/> <img src="https://media.istockphoto.com/id/1491518457/pt/vetorial/sketch-of-young-woman-practicing-yoga-doing-rejuvenation-pose-or-supine-staff-pose-supta.jpg?s=612x612&w=0&k=20&c=d96h9qipezPdrvroBSc1B50n_lRtEbzlu46bFlsqA5w=" alt="Legs up wal" width="24%"/> 
 
@@ -29,26 +24,19 @@ and it was plain to see, that you are my destiny._
 
 Cat Cow Flow, Striking Cobra, Plank to Down Dog
 
-
-
-- Cat - Cow Flow
-- Child's Pose - Cobra Flow
-- DownDog - Plank Flow
-- Forward Fold Stretches
-- Mountain Pose Stretches
-
-
-
-
-
-
 **Sun Salutations and Flows**
+
+
+<img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="10%"/> <img src="https://images.assetsdelivery.com/compings_v2/parkheta/parkheta2102/parkheta210200292.jpg" alt="Standing Forward Bend Twist" width="24%"/> 
+
+
 - Half Salutaiton
 - Sun Salutaion with Low Lunge
 - Sun Salutaion with Warrior I
 - Sun Salutaion with Warrior II
 - Warrior II Flow
 - Warrior III Flow
+
 
 **Closing Stretches and Strengthening**
 - Moutain Pose →  Forward Fold →  Forward Fold Hang
