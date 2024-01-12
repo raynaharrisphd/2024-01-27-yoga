@@ -5,8 +5,10 @@
 **When:** Saturday, January 27, 2024 from 8 - 9 AM (PST)   
 **Where:** Palisades Yoga Stuio 
 **With:** Rayna Harris and Jashua Denis
-**Key Actions:** Open Your Heart  
-**Description:** _Add a description here._
+**Key Actions:** Open Your Heart    
+**Spinal Effects:** Enlivening, Axial Extension
+
+**Description:**  _Add description here._
 
 ## Asanas and Meditaions
 
