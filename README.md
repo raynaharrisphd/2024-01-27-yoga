@@ -56,12 +56,7 @@
 
 **Bridges and Plows**
 
-<img src="https://media.istockphoto.com/id/1502300958/vector/black-silhouette-of-young-woman-practicing-yoga-doing-extended-child-pose-utthita-balasana.jpg?s=612x612&w=0&k=20&c=N4FvohkVjbGQOm7dy2NPX9YIIltBi1io2a8VlihlOlo=" alt="Childs Pose" width="20%"/> <img src="https://media.istockphoto.com/id/1301879118/vector/malasana-pose-yoga-workout-silhouette-healthy-lifestyle-vector-illustration.jpg?s=612x612&w=is&k=20&c=KqdmMyPE6dpxlGaJOmG-eNN3epnWQDXBYVslAtGyiqY=" alt="Malasana" width="20%"/> 
-
-<img src="https://bensonhenryinstitute.org/wp-content/uploads/2015/09/optimized-cropped-bridge-pose-yoga-story-wellness-sept-2015-300x200.jpg" alt="Bridge" width="20%"/> 
-<img src="https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/shoulderstand-yoga-pose-sticker-30757-550x550.png" alt="Shoulder Stand" width="20%"/> 
-<img src="https://as2.ftcdn.net/v2/jpg/00/77/87/59/1000_F_77875962_ZZhQ8FdcCUa33zm3apyJlP6V1PA4PSGp.jpg" alt="Plow" width="20%"/> 
-<img src="https://www.shutterstock.com/image-illustration/happy-baby-yoga-pose-silhouette-260nw-1737708308.jpg" alt="Happy Baby" width="20%"/> 
+<img src="https://bensonhenryinstitute.org/wp-content/uploads/2015/09/optimized-cropped-bridge-pose-yoga-story-wellness-sept-2015-300x200.jpg" alt="Bridge" width="20%"/> <img src="https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/shoulderstand-yoga-pose-sticker-30757-550x550.png" alt="Shoulder Stand" width="20%"/> <img src="https://as2.ftcdn.net/v2/jpg/00/77/87/59/1000_F_77875962_ZZhQ8FdcCUa33zm3apyJlP6V1PA4PSGp.jpg" alt="Plow" width="20%"/>  <img src="https://www.shutterstock.com/image-illustration/happy-baby-yoga-pose-silhouette-260nw-1737708308.jpg" alt="Happy Baby" width="20%"/> 
 
 
 <img src="" alt="" width="20%"/> 
