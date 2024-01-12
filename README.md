@@ -3,8 +3,9 @@
 ## Description
 
 **When:** Saturday, January 27, 2024 from 8 - 9 AM (PST)   
-**Where:** Palisades Yoga with Rayna Harris and Jashua Denis
-**Key Actions:** Open Your Heart
+**Where:** Palisades Yoga Stuio 
+**With:** Rayna Harris and Jashua Denis
+**Key Actions:** Open Your Heart  
 **Description:** _Add a description here._
 
 ## Asanas and Meditaions
@@ -13,20 +14,21 @@ Opening Meditation
 
 Opening Stetches and Strengthening
 - Savasana
-- Reclined Arm and Back Stretches
+- Reclined Side Bends and Arm Cirlces
+- Hug → Table 
 - Cat - Cow Flow
 - Child's Pose - Cobra Flow
 - DownDog - Plank Flow
 - Forward Fold Stretches
 - Mountain Pose Stretches
 
-Sun Salutations
+Sun Salutations and Flows
 - 1x Half Salutaiton
 - 2x Sun Salutaion with Low Lunge
 - 2x Sun Salutaion with Warrior I
 - 2x Sun Salutaion with Warrior II
 - 2x Warrior II Flow
-- 2x Warrio II Flow
+- 2x Warrio III Flow
 
 Closing Stretches and Strengthening
 - Moutain Pose →  Forward Fold →  Forward Fold Hang
