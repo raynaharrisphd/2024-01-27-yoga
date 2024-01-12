@@ -42,15 +42,15 @@
 
 <img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="15%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="10%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="20%"/> <img src="https://www.silhouette.pics/images/quotes/english/general/plank-yoga-pose-silhouette-free-52650-103727.jpg" alt="Plank" width="15%"/> <img src="https://i.pinimg.com/1200x/f3/d2/b8/f3d2b84c5bbda409a46e3dc363e21a03.jpg" alt="Down Dog" width="10%"/>  <img src="https://i.pinimg.com/1200x/b7/d7/3e/b7d73e84b76a509ed83279b460faeeae.jpg" alt="Up Dog" width="15%"/> 
 
-**Sphynx Stretch**
+**Sphynx Pose and Prone Shoulder Stretch**
 
- <img src="https://media.istockphoto.com/id/1503374030/vector/black-silhouette-of-young-woman-practicing-yoga-doing-sphinx-pose-salamba-bhujangasana.jpg?s=612x612&w=0&k=20&c=hFAgGtFOzYhBJ8H1fkQDH3azQ2JFedPr6F_eUjpKr6M=" alt="Sphinx" width="15%"/> <img src="https://d5sbbf6usl3xq.cloudfront.net/prone_shoulder_stretch_pose_leg_up___yoga.png" alt="Prone Shoulder Stretch" width="20%"/> 
-<img src="https://media.istockphoto.com/id/1502300958/vector/black-silhouette-of-young-woman-practicing-yoga-doing-extended-child-pose-utthita-balasana.jpg?s=612x612&w=0&k=20&c=N4FvohkVjbGQOm7dy2NPX9YIIltBi1io2a8VlihlOlo=" alt="Childs Pose" width="10%"/> 
-<img src="https://media.istockphoto.com/id/1301879118/vector/malasana-pose-yoga-workout-silhouette-healthy-lifestyle-vector-illustration.jpg?s=612x612&w=is&k=20&c=KqdmMyPE6dpxlGaJOmG-eNN3epnWQDXBYVslAtGyiqY=" alt="Malasana" width="10%"/> <img src="https://www.shutterstock.com/image-vector/flat-black-silhouette-young-woman-260nw-2295064327.jpg" alt="Low Lunge" width="10%"/> 
-<img src="https://www.shutterstock.com/image-vector/silhouette-woman-doing-yoga-urdhva-600w-2391084949.jpg" alt="Standing Split" width="10%"/> 
+ <img src="https://media.istockphoto.com/id/1503374030/vector/black-silhouette-of-young-woman-practicing-yoga-doing-sphinx-pose-salamba-bhujangasana.jpg?s=612x612&w=0&k=20&c=hFAgGtFOzYhBJ8H1fkQDH3azQ2JFedPr6F_eUjpKr6M=" alt="Sphinx" width="30%"/> <img src="https://d5sbbf6usl3xq.cloudfront.net/prone_shoulder_stretch_pose_leg_up___yoga.png" alt="Prone Shoulder Stretch" width="30%"/> 
 
+**Hip Opening and Leg Strenghtening Asanas**
 
-**Lounging with Lizzard and Pigeons**
+<img src="https://media.istockphoto.com/id/1502300958/vector/black-silhouette-of-young-woman-practicing-yoga-doing-extended-child-pose-utthita-balasana.jpg?s=612x612&w=0&k=20&c=N4FvohkVjbGQOm7dy2NPX9YIIltBi1io2a8VlihlOlo=" alt="Childs Pose" width="20%"/>  <img src="https://media.istockphoto.com/id/1301879118/vector/malasana-pose-yoga-workout-silhouette-healthy-lifestyle-vector-illustration.jpg?s=612x612&w=is&k=20&c=KqdmMyPE6dpxlGaJOmG-eNN3epnWQDXBYVslAtGyiqY=" alt="Malasana" width="20%"/> <img src="https://www.shutterstock.com/image-vector/flat-black-silhouette-young-woman-260nw-2295064327.jpg" alt="Low Lunge" width="20%"/>  <img src="https://www.shutterstock.com/image-vector/silhouette-woman-doing-yoga-urdhva-600w-2391084949.jpg" alt="Standing Split" width="20%"/> 
+
+**Twisted Lizzard and Peaceful Pigeon Poses**
 
 
 
