@@ -11,6 +11,11 @@
 
 **Description:**  _This 60 minutes yoga class begins with joyful meditation, moves through sun salutation variatins, and ends with restorative practice centered around inner peace, relaxation, happiness. Just as the sun rises an sets each day, this full body practice will guide you through a series reclined, standing, revoled, and inverted poses that while enliven your body, mind, and spirity. Here, we emphaize poses and modificaitons of poses that focus on opening the heart to joy and peace._
 
+**Music:** Available on Spotify and YouTube
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
+
 ## Asanas
 
 **Supine Stretch**
@@ -58,12 +63,9 @@
 
 <img src="https://bensonhenryinstitute.org/wp-content/uploads/2015/09/optimized-cropped-bridge-pose-yoga-story-wellness-sept-2015-300x200.jpg" alt="Bridge" width="20%"/> <img src="https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/shoulderstand-yoga-pose-sticker-30757-550x550.png" alt="Shoulder Stand" width="20%"/> <img src="https://as2.ftcdn.net/v2/jpg/00/77/87/59/1000_F_77875962_ZZhQ8FdcCUa33zm3apyJlP6V1PA4PSGp.jpg" alt="Plow" width="20%"/>  <img src="https://www.shutterstock.com/image-illustration/happy-baby-yoga-pose-silhouette-260nw-1737708308.jpg" alt="Happy Baby" width="20%"/> 
 
+**Savana and Meditation**
 
-<img src="" alt="" width="20%"/> 
-
-## Music
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+<img src="https://ourownkids.org/wp-content/uploads/savasana-720x340_orig.jpeg" alt="savasana" width="50%"/> 
 
 <iframe width="100%" height="352" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
