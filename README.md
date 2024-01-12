@@ -53,9 +53,11 @@ Closing Meditation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Music
+## Resources
 
-![Half Salutation](https://www.dummies.com/wp-content/uploads/384096.image0.jpg) _Half Salutation_  
+![Half Salutation](https://www.dummies.com/wp-content/uploads/384096.image0.jpg)   
+_Half Salutation_  
 
-![Sun Saluation with Lunge](https://solyogacentre.files.wordpress.com/2014/03/sun-salutation.png) _Sun Salutation with Low Lunge_
+![Sun Saluation with Lunge](https://solyogacentre.files.wordpress.com/2014/03/sun-salutation.png)   
+_Sun Salutation with Low Lunge_
 
