@@ -27,11 +27,18 @@ Cat Cow Flow  →  Striking Cobra  → Plank to Down Dog
 
 **Sun Salutation with a Half Twist**
 
-<img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="10%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="10%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="20%"/> <img src="https://images.assetsdelivery.com/compings_v2/parkheta/parkheta2102/parkheta210200292.jpg" alt="Standing Forward Bend Twist" width="24%"/> 
+<img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="10%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="10%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="20%"/>  <img src="https://images.assetsdelivery.com/compings_v2/parkheta/parkheta2102/parkheta210200292.jpg" alt="Standing Forward Bend Twist" width="20%"/> 
 
 Tadasana  →  Urdhva Hastasana  → Standing Forward Fold →  Forward Fold with Twist
 
-**Sun Salutation with Warrior II**
+**Sun Salutation with a Low Lunge**
+
+
+
+<img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="8%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="8%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="15%"/> <img src="https://sweatnewyork.files.wordpress.com/2015/04/lowlunge-1.jpg" alt="Low Lunge" width="15%"/> <img src="https://www.shutterstock.com/image-vector/yoga-cobra-pose-bhujangasana-man-260nw-2129731997.jpg" alt="Cobra" width="15%"/> <img src="https://www.silhouette.pics/images/quotes/english/general/plank-yoga-pose-silhouette-free-52650-103727.jpg" alt="Plank" width="15%"/> <img src="https://i.pinimg.com/1200x/f3/d2/b8/f3d2b84c5bbda409a46e3dc363e21a03.jpg" alt="Down DOg" width="10%"/> 
+
+
+
 
 **Warrior II Flow**
 
@@ -66,4 +73,7 @@ _Half Salutation_
 
 ![Sun Saluation with Lunge](https://solyogacentre.files.wordpress.com/2014/03/sun-salutation.png)   
 _Sun Salutation with Low Lunge_
+
+
+<img src="https://blissbodysoul.files.wordpress.com/2018/12/SunSalutations.jpg" alt="Sun Sal with Low Lunge" width="50%"/> 
 
