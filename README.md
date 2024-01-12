@@ -21,7 +21,7 @@
 
 <img src="https://yogajala.com/wp-content/uploads/2022/03/cat-cow-pose-page.jpg" alt="Cat Cow Flow" width="30%"/> <img src="https://workoutlabs.com/wp-content/uploads/watermarked/Striking_Cobra-1.png" alt="Striking Cobra" width="30%"/> <img src="https://www.gofitnessplan.com/images/exercises/female/plank-downward-dog.jpg" alt="Plank to Down Dog" width="30%"/>
 
-**Sun Salutation with a Half Twist**
+**Half Salutation with a Twist**
 
 <img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="10%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="10%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="20%"/> <img src="https://images.assetsdelivery.com/compings_v2/parkheta/parkheta2102/parkheta210200292.jpg" alt="Standing Forward Bend Twist" width="20%"/> 
 
@@ -33,9 +33,14 @@
 
 <img src="https://www.ekhartyoga.com/media/image/articles/Sun-salutation-b-sequence-with-the-breath.jpg" alt="Sun Sal Warrior I" width="50%"/>
 
+**Danding Warrior II Flow**
+
+<img src="https://d5sbbf6usl3xq.cloudfront.net/dancing_warrior_variation_flow__nritya_virabhadrasana_variation_vinyasa_yoga.png" alt="Sun Sal Warrior I" width="30%"/>
+
 **Warrior III Flow**
 
-<img src="https://d5sbbf6usl3xq.cloudfront.net/dancing_warrior_variation_flow__nritya_virabhadrasana_variation_vinyasa_yoga.png" alt="Sun Sal Warrior I" width="90%"/>
+<img src="https://as2.ftcdn.net/v2/jpg/00/74/17/91/1000_F_74179141_wNqDGyzMzYNs7swjioXIgeMrvp05Ief4.jpg" alt="Tree Pose" width="30%"/>
+<img src="https://yogajala.com/wp-content/uploads/airplane-pose.jpg" alt="Airplane" width="30%"/>
 
 
 
