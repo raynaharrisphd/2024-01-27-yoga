@@ -12,6 +12,8 @@ Opening stretches
 
 Sun Salutations
 
+![Half Salutation](https://www.dummies.com/wp-content/uploads/384096.image0.jpg)
+
 ![Sun Saluation with Lunge](https://solyogacentre.files.wordpress.com/2014/03/sun-salutation.png)
 
 Moving Breathwork
