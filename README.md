@@ -53,8 +53,6 @@
 
 **Hip and Heart Opening**
 
-Child’s Pose → Malasana → Low Lunge → Half Splits
-
 <img src="https://media.istockphoto.com/id/1502300958/vector/black-silhouette-of-young-woman-practicing-yoga-doing-extended-child-pose-utthita-balasana.jpg?s=612x612&w=0&k=20&c=N4FvohkVjbGQOm7dy2NPX9YIIltBi1io2a8VlihlOlo=" alt="Childs Pose" width="20%"/>  <img src="https://media.istockphoto.com/id/1301879118/vector/malasana-pose-yoga-workout-silhouette-healthy-lifestyle-vector-illustration.jpg?s=612x612&w=is&k=20&c=KqdmMyPE6dpxlGaJOmG-eNN3epnWQDXBYVslAtGyiqY=" alt="Malasana" width="20%"/> <img src="https://www.shutterstock.com/image-vector/flat-black-silhouette-young-woman-260nw-2295064327.jpg" alt="Low Lunge" width="20%"/>  <img src="https://www.shutterstock.com/image-vector/silhouette-woman-doing-yoga-urdhva-600w-2391084949.jpg" alt="Standing Split" width="20%"/> 
 
 **Twisted Lizzard and Peaceful Pigeon Poses**
@@ -88,6 +86,8 @@ Tadasana  →  Urdhva Hastasana  → Standing Forward Fold →  Forward Fold wit
 Moutain Pose →  Forward Fold →  Forward Fold Hang
 
 Plank Pose → Sphinx Pose → Prone Shoulder Stretch
+
+Child’s Pose → Malasana → Low Lunge → Half Splits
 
 Lizard Lunge → Lizard Twist → Plank → Downward Dog → Three legged dog → Pigeon Pose
 
