@@ -2,11 +2,11 @@
 
 ## Description
 
-**When:** Saturday, January 27, 2024 from 8 - 9 AM (PST)   
-**Where:** Palisades Yoga Stuio 
-**With:** Rayna Harris and Jashua Denis
-**Key Actions:** Open Your Heart    
-**Spinal Effects:** Enlivening, Axial Extension
+**When:** Saturday, January 27, 2024 from 8 - 9 AM    
+**Where:** Palisades Yoga Stuio   
+**With:** Rayna Harris and Jashua Denis   
+**Key Actions:** Open Your Heart   
+**Spinal Effects:** Enlivening, Axial Extension   
 
 **Description:**  _Add description here._
 
@@ -25,12 +25,12 @@ Opening Stetches and Strengthening
 - Mountain Pose Stretches
 
 Sun Salutations and Flows
-- 1x Half Salutaiton
-- 2x Sun Salutaion with Low Lunge
-- 2x Sun Salutaion with Warrior I
-- 2x Sun Salutaion with Warrior II
-- 2x Warrior II Flow
-- 2x Warrio III Flow
+- Half Salutaiton
+- Sun Salutaion with Low Lunge
+- Sun Salutaion with Warrior I
+- Sun Salutaion with Warrior II
+- Warrior II Flow
+- Warrior III Flow
 
 Closing Stretches and Strengthening
 - Moutain Pose →  Forward Fold →  Forward Fold Hang
