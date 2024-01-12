@@ -3,14 +3,14 @@
 ## Description
 
 **When:** Saturday, January 27, 2024 from 8 - 9 AM    
-**Where:** Palisades Yoga Stuio   
+**Where:** Palisades Yoga Studio   
 **With:** Rayna Harris and Jashua Denis   
 **Key Actions:** Open Your Heart   
 **Spinal Effects:** Enlivening, Axial Extension   
 
-**Description:**  _This 60 minutes yoga class focuses on joy and peace. It begins with joyful medication and vinyasa flow, and it ends with restorative practice centered around inner peace, relaxation, and happiness._
+**Description:**  _This 60 minutes yoga class focuses on joy and peace. It begins with joyful meditation and vinyasa flow, and it ends with restorative practice centered around inner peace, relaxation, and happiness._
 
-## Asanas and Meditaions
+## Asanas and Meditations
 
 **Opening Meditation**
 
