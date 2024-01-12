@@ -52,22 +52,11 @@
 
 **Twisted Lizzard and Peaceful Pigeon Poses**
 
+<img src="https://www.silhouette.pics/images/quotes/english/general/lizard-yoga-pose-forte-silhouette-52650-93046.jpg" alt="Lizard " width="30%"/> <img src="https://media.istockphoto.com/id/1575790496/vector/silhouette-of-young-woman-practicing-yoga-doing-revolved-crescent-lunge-on-the-knee-pose.jpg?s=612x612&w=0&k=20&c=4Vvd15OWPOGrbxZuXSdnbI5qazqOTH22k4epPbHQ3tQ=" alt="Revolved Lizard " width="30%"/> 
+<img src="https://media.istockphoto.com/id/1495141938/vector/flat-black-silhouette-of-young-woman-practicing-yoga-doing-half-pigeon-pose-or-swan-pose.jpg?s=612x612&w=0&k=20&c=ZFvwQBcK9o2e8l46JeoVV9J3co3xVpLiFw8yjzi89zo=" alt="Peaceful pigeon" width="30%"/> 
 
 
 
-**Closing Stretches and Strengthening**
-- Moutain Pose →  Forward Fold →  Forward Fold Hang
-- Plank Pose → Sphinx Pose → Prone Shoulder Stretch
-- Child’s Pose → Malasana → Low Lunge → Half Splits
-- Lizard Lunge → Lizard Twist
-- Olank → Downward Dog → Three legged dog → Pigeon Pose
-- Child’s pose → Malasana
-- Figure Four Pose → Figure Four Twist → Bridge Pose → Plough Pose
-- Happy Baby 
-- Savasana
-
-Closing Meditation
- 
 
 ## Music
 
@@ -86,6 +75,19 @@ Cat Cow Flow  →  Striking Cobra  → Plank to Down Dog
 **Sun Salutation with a Half Twist**  
 Tadasana  →  Urdhva Hastasana  → Standing Forward Fold →  Forward Fold with Twist
 
+**Closing Stretches and Strengthening**
+- Moutain Pose →  Forward Fold →  Forward Fold Hang
+- Plank Pose → Sphinx Pose → Prone Shoulder Stretch
+- Child’s Pose → Malasana → Low Lunge → Half Splits
+- Lizard Lunge → Lizard Twist
+- Olank → Downward Dog → Three legged dog → Pigeon Pose
+- Child’s pose → Malasana
+- Figure Four Pose → Figure Four Twist → Bridge Pose → Plough Pose
+- Happy Baby 
+- Savasana
+
+Closing Meditation
+ 
 
 ## Resources
 
