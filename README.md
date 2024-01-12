@@ -68,10 +68,6 @@
 
 <img src="https://ourownkids.org/wp-content/uploads/savasana-720x340_orig.jpeg" alt="savasana" width="50%"/> 
 
-<iframe width="100%" height="352" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
-
 
 ## Asana Outline
 
@@ -94,6 +90,14 @@ Lizard Lunge → Lizard Twist → Plank → Downward Dog → Three legged dog �
 Child’s pose → Malasana →  Figure Four Pose → Figure Four Twist → Bridge Pose → Shoulder Stand → Plough Pose →  Happy Baby 
 
 Śavāsana
+
+
+## Music
+
+<iframe width="100%" height="352" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+
 
 ## Resources
 
