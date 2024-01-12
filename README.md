@@ -7,7 +7,7 @@
 **With:** Rayna Harris and Jashua Denis   
 **Key Actions:** Open Your Heart   
 **Spinal Effects:** Enlivening, Axial Extension   
-**Theme: Yoga for Joy and Peace**
+**Theme:** Yoga for Joy and Peace
 
 **Description:**  _This 60 minutes yoga class begins with joyful meditation, moves through sun salutation variatins, and ends with restorative practice centered around inner peace, relaxation, happiness. Just as the sun rises an sets each day, this full body practice will guide you through a series reclined, standing, revoled, and inverted poses that while enliven your body, mind, and spirity. Here, we emphaize poses and modificaitons of poses that focus on opening the heart to joy and peace.
 
