@@ -25,19 +25,17 @@
 
 Cat Cow Flow  →  Striking Cobra  → Plank to Down Dog
 
-**Sun Salutations**
+**Sun Salutation with a Half Twist**
 
 <img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="10%"/> <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="10%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="20%"/> <img src="https://images.assetsdelivery.com/compings_v2/parkheta/parkheta2102/parkheta210200292.jpg" alt="Standing Forward Bend Twist" width="24%"/> 
 
 Tadasana  →  Urdhva Hastasana  → Standing Forward Fold →  Forward Fold with Twist
 
+**Sun Salutation with Warrior II**
 
-- Half Salutaiton
-- Sun Salutaion with Low Lunge
-- Sun Salutaion with Warrior I
-- Sun Salutaion with Warrior II
-- Warrior II Flow
-- Warrior III Flow
+**Warrior II Flow**
+
+**Warrior III Flow**
 
 
 **Closing Stretches and Strengthening**
