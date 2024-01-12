@@ -94,22 +94,7 @@ Child’s pose → Malasana →  Figure Four Pose → Figure Four Twist → Brid
 
 ## Music
 
-<iframe width="100%" height="352" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6nJ3UHnXouuSo34tuFPPSd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
 
+<iframe width="100%" height="352" src="https://www.youtube.com/embed/tHZAcgcvHS0?si=aA-IarYI--bMtZQq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Resources
-
-![Half Salutation](https://www.dummies.com/wp-content/uploads/384096.image0.jpg)   
-_Half Salutation_  
-
-![Sun Saluation with Lunge](https://solyogacentre.files.wordpress.com/2014/03/sun-salutation.png)   
-_Sun Salutation with Low Lunge_
-
-<img src="https://blissbodysoul.files.wordpress.com/2018/12/SunSalutations.jpg" alt="Sun Sal with Low Lunge" width="50%"/> 
-
-<img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="8%"/> <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="15%"/> <img src="https://www.silhouette.pics/images/quotes/english/general/plank-yoga-pose-silhouette-free-52650-103727.jpg" alt="Plank" width="15%"/>
-<img src="https://i.pinimg.com/1200x/b7/d7/3e/b7d73e84b76a509ed83279b460faeeae.jpg" alt="Up Dog" width="15%"/> 
-<img src="https://i.pinimg.com/1200x/f3/d2/b8/f3d2b84c5bbda409a46e3dc363e21a03.jpg" alt="Down Dog" width="10%"/> 
-<img src="https://ih1.redbubble.net/image.1019347755.1622/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg" alt="Warrior I" width="15%"/>  <img src="https://lh3.googleusercontent.com/proxy/n5YOIsvd4QcfoXGOY3cNVwfrfg2_i6ZG9KqEwT8c-q445tkZPKqeJhJzilzFKHgY9Ca1fR6Hut0MrjL9ltJvYRXd4HWoJ2ak5VpKRlvM5cMqtfVsrB_Hr9EODwi-Y00ef3soAk97F9JWv1FmsOkriFVi8lVexdn_jBUNXwI-enb7iAwGq6XaG6BDo1s" alt="Standing Forward Bend" width="15%"/>  <img src="https://i0.wp.com/www.experimentsinwellness.com/wp-content/uploads/2017/10/exercise-2766310_1280.png?resize=280%2C560&ssl=1" alt="Urdhva Hastasana" width="8%"/>  <img src="https://thumbs.dreamstime.com/b/woman-mountain-pose-yoga-silhouette-standing-39186029.jpg" alt="Mountain" width="8%"/> 
