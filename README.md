@@ -79,7 +79,9 @@ Child’s pose → Malasana →  Figure Four Pose → Figure Four Twist → Brid
 
 <img src="https://bensonhenryinstitute.org/wp-content/uploads/2015/09/optimized-cropped-bridge-pose-yoga-story-wellness-sept-2015-300x200.jpg" alt="Bridge" width="20%"/> <img src="https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/shoulderstand-yoga-pose-sticker-30757-550x550.png" alt="Shoulder Stand" width="20%"/> <img src="https://as2.ftcdn.net/v2/jpg/00/77/87/59/1000_F_77875962_ZZhQ8FdcCUa33zm3apyJlP6V1PA4PSGp.jpg" alt="Plow" width="20%"/>  <img src="https://www.shutterstock.com/image-illustration/happy-baby-yoga-pose-silhouette-260nw-1737708308.jpg" alt="Happy Baby" width="20%"/> 
 
-**Savana and Meditation**
+**Śavāsana and Meditation**
+
+Śavāsana
 
 <img src="https://ourownkids.org/wp-content/uploads/savasana-720x340_orig.jpeg" alt="savasana" width="50%"/> 
 
