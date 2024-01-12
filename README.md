@@ -20,7 +20,7 @@ and it was plain to see, that you are my destiny._
 
 **Opening Stetches and Strengthening**
 
-<img src="https://workoutlabs.com/wp-content/uploads/watermarked/Corpse-1.png" alt="Shavasana" width="10%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcfxdy0d0tgCMO718TT7u274RxgkuBgxXIunA7Sw-a0Cx88C1Nt5Lkc3AC0qU4IcA-hQ&usqp=CAU" alt="Bananasana" width="10%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3zazgDv_ZFBeTsZd3P9-5-SHaNx2NYCMNg&usqp=CAU" width="10%"/>
+<img src="https://workoutlabs.com/wp-content/uploads/watermarked/Corpse-1.png" alt="Shavasana" width="30%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcfxdy0d0tgCMO718TT7u274RxgkuBgxXIunA7Sw-a0Cx88C1Nt5Lkc3AC0qU4IcA-hQ&usqp=CAU" alt="Bananasana" width="30%"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3zazgDv_ZFBeTsZd3P9-5-SHaNx2NYCMNg&usqp=CAU" width="30%"/>
 
 Śavāsana, Bananasana (Reclined Crescent Moon), Jathara Parivartanasana (Reclined Twist)
 
